@@ -1,9 +1,7 @@
-import DefaultPage from '@/components/section/defaultPage'
-
+import LandingPage from "@/components/section/defaultPage"
 
 function Page() {
-
-
-  return <div>Hulio</div>}
+  return <LandingPage/>
+}
 
 export default Page
