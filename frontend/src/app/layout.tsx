@@ -36,8 +36,8 @@ const polt_waski = localFont({
 
 
 export const metadata: Metadata = {
-  title: "Explore Ghana",
-  description: "Welcome to the gate way of Africa",
+  title: "TOKENDY",
+  description: "token logyalty",
 };
 
 export default function RootLayout({
